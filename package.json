@@ -1,7 +1,7 @@
 {
   "name": "a-record-updater",
-  "version": "1.0.0",
-  "description": "A Record Updater",
+  "version": "0.0.1",
+  "description": "Update a DNS A record with a dynamic IP address",
   "repository": "https://github.com/whitcomb/a-record-updater.git",
   "main": "index.js",
   "scripts": {
